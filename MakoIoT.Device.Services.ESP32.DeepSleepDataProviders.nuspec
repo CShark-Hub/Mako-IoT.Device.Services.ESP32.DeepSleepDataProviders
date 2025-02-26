@@ -17,14 +17,14 @@
     <description>ESP32 DeepSleep data provider for MAKO-IoT</description>
     <tags>nanoFramework C# csharp netmf netnf deepsleep mako-iot ESP32</tags>
     <dependencies>
-      <dependency id="MakoIoT.Device.Services.Interface" version="1.0.52.50912" />
+      <dependency id="MakoIoT.Device.Services.Interface" version="1.0.53.21413" />
       <dependency id="nanoFramework.CoreLibrary" version="1.17.1" />
-      <dependency id="nanoFramework.DependencyInjection" version="1.1.25" />
-      <dependency id="nanoFramework.Hardware.Esp32" version="1.6.30" />
-      <dependency id="nanoFramework.Runtime.Events" version="1.11.29" />
-      <dependency id="nanoFramework.Runtime.Native" version="1.7.8" />
-      <dependency id="nanoFramework.System.Collections" version="1.5.59" />
-      <dependency id="nanoFramework.System.Device.Gpio" version="1.1.53" />
+      <dependency id="nanoFramework.DependencyInjection" version="1.1.29" />
+      <dependency id="nanoFramework.Hardware.Esp32" version="1.6.31" />
+      <dependency id="nanoFramework.Runtime.Events" version="1.11.30" />
+      <dependency id="nanoFramework.Runtime.Native" version="1.7.9" />
+      <dependency id="nanoFramework.System.Collections" version="1.5.62" />
+      <dependency id="nanoFramework.System.Device.Gpio" version="1.1.55" />
     </dependencies>
   </metadata>
   <files>
